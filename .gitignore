@@ -35,3 +35,15 @@ test-results/
 screenshots/
 videos/
 traces/
+
+# OpenAI Codex
+.codex/
+
+# Claude Code
+.claude/
+
+# Cursor
+.cursor/
+
+# GitHub Copilot (if local workspace data is created)
+.github/copilot/
