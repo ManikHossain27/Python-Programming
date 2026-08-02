@@ -47,3 +47,6 @@ traces/
 
 # GitHub Copilot (if local workspace data is created)
 .github/copilot/
+
+# MCP configuration
+.mcp.json
