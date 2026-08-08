@@ -4,6 +4,7 @@
 # print(mytuple)  #('apple', 'banana', 'cherry')
 
 
+
 #Access tuple elements/values
 # mytuple=("apple","banana","cherry")
 # print(mytuple[0])  # apple
