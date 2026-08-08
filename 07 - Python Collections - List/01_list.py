@@ -43,6 +43,12 @@
 #     print(i)
 
 
+# Print list items by using for loop and a variable to access the index of the list
+# mylist=["apple","banana","cherry"]
+# for i in range(len(mylist)):
+#     print(mylist[i])
+
+
 # check if the item is exist or not ( Searching an item in a list)
 # mylist=["apple","banana","cherry"]
 #
@@ -141,6 +147,11 @@
 # print(mylist1)
 # print(mylist2)
 
+# mylist1 = ["apple", "banana", "cherry"]
+# mylist2 = mylist1  # this will not create a new list, it will create a reference to the existing list
+# print(mylist1)
+# print(mylist2)
+
 
 # Join the lists
 
@@ -165,13 +176,13 @@ list3=list()
 # print(list1)  #['a', 'b', 'c', 10, 20, 30]
 
 
-for i in list1:
-    list3.append(i)
-
-for i in list2:
-    list3.append(i)
-
-print(list3)
+# for i in list1:
+#     list3.append(i)
+#
+# for i in list2:
+#     list3.append(i)
+#
+# print(list3)
 
 #Appraoch3 : using extend() method
 # list1=["a","b","c"]
